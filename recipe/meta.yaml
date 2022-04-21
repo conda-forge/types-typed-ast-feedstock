@@ -1,5 +1,5 @@
 {% set name = "types-typed-ast" %}
-{% set version = "1.5.3" %}
+{% set version = "1.5.4" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-typed-ast-{{ version }}.tar.gz
-  sha256: 6a946115f7e2b960e3db1120d0ca99c493d6b624f67d0fc4f43d2b0478cac867
+  sha256: 3253879ff63afb896465afe4228a1c4df2e63cdc39eef9b9743d500b8d9a5176
 
 build:
   number: 0
